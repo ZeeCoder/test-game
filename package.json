@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ZeeCoder/test-game/issues"
   },
-  "homepage": "https://github.com/ZeeCoder/test-game"
+  "homepage": "https://github.com/ZeeCoder/test-game",
+  "dependencies": {
+    "express": "^4.8.7"
+  }
 }
