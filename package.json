@@ -1,0 +1,20 @@
+{
+  "name": "test-game",
+  "version": "0.0.0",
+  "description": "test-game =========",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ZeeCoder/test-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeeCoder/test-game/issues"
+  },
+  "homepage": "https://github.com/ZeeCoder/test-game"
+}
